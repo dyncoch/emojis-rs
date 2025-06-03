@@ -21,6 +21,8 @@ fn main() {
     println!("   {EMOJI_CROSS} Failed to load configuration.");
     println!("   {EMOJI_HOURGLASS} Processing...");
     println!("   {EMOJI_SUCCESS} Task completed!");
+
+    let check = emoji!(EMOJI_CHECK); // ✅: &str
 }
 ```
 
@@ -84,6 +86,11 @@ fn main() {
 - `EMOJI_PUFF` 💨
 - `EMOJI_STARS` ✨
 - `EMOJI_RUST` 🦀
+
+# TODO
+
+- Add more emojis to this list
+- Test compatibility
 
 ## License
 
