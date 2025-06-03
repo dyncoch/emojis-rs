@@ -1,4 +1,4 @@
-# emoji-rs
+# emojis-rs
 
 A collection of emoji constants for Rust applications, particularly useful for CLI tools and terminal applications that want to add visual flair to their output.
 
