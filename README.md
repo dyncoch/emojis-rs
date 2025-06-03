@@ -8,7 +8,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-emoji-rs = "0.1.0"
+emoji-rs = "0.1.1"
 ```
 
 ## Usage
